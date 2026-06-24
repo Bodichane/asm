@@ -1,0 +1,63 @@
+﻿  lab4.cpp
+C:\itcha\Cours\asm\lab4\lab4\lab4.cpp(8,5): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\itcha\Cours\asm\lab4\lab4\lab4.cpp(9,9): error C2065: pushad: необъявленный идентификатор
+C:\itcha\Cours\asm\lab4\lab4\lab4.cpp(10,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\itcha\Cours\asm\lab4\lab4\lab4.cpp(10,9): error C2065: mov: необъявленный идентификатор
+C:\itcha\Cours\asm\lab4\lab4\lab4.cpp(10,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\itcha\Cours\asm\lab4\lab4\lab4.cpp(10,13): error C2065: eax: необъявленный идентификатор
+C:\itcha\Cours\asm\lab4\lab4\lab4.cpp(11,13): error C2065: ebx: необъявленный идентификатор
+C:\itcha\Cours\asm\lab4\lab4\lab4.cpp(11,18): error C2065: ebx: необъявленный идентификатор
+C:\itcha\Cours\asm\lab4\lab4\lab4.cpp(12,13): error C2065: ecx: необъявленный идентификатор
+C:\itcha\Cours\asm\lab4\lab4\lab4.cpp(12,18): error C2065: ecx: необъявленный идентификатор
+C:\itcha\Cours\asm\lab4\lab4\lab4.cpp(14,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "start_loop"
+C:\itcha\Cours\asm\lab4\lab4\lab4.cpp(15,13): error C2065: test: необъявленный идентификатор
+C:\itcha\Cours\asm\lab4\lab4\lab4.cpp(15,18): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\itcha\Cours\asm\lab4\lab4\lab4.cpp(15,18): error C2065: eax: необъявленный идентификатор
+C:\itcha\Cours\asm\lab4\lab4\lab4.cpp(15,23): error C2065: eax: необъявленный идентификатор
+C:\itcha\Cours\asm\lab4\lab4\lab4.cpp(16,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "jz"
+C:\itcha\Cours\asm\lab4\lab4\lab4.cpp(16,13): error C2065: jz: необъявленный идентификатор
+C:\itcha\Cours\asm\lab4\lab4\lab4.cpp(16,16): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "out_loop"
+C:\itcha\Cours\asm\lab4\lab4\lab4.cpp(16,16): error C2065: out_loop: необъявленный идентификатор
+C:\itcha\Cours\asm\lab4\lab4\lab4.cpp(17,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "test"
+C:\itcha\Cours\asm\lab4\lab4\lab4.cpp(17,13): error C2065: test: необъявленный идентификатор
+C:\itcha\Cours\asm\lab4\lab4\lab4.cpp(17,18): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\itcha\Cours\asm\lab4\lab4\lab4.cpp(17,18): error C2065: eax: необъявленный идентификатор
+C:\itcha\Cours\asm\lab4\lab4\lab4.cpp(18,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "jnz"
+C:\itcha\Cours\asm\lab4\lab4\lab4.cpp(18,13): error C2065: jnz: необъявленный идентификатор
+C:\itcha\Cours\asm\lab4\lab4\lab4.cpp(18,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "one_bits"
+C:\itcha\Cours\asm\lab4\lab4\lab4.cpp(18,17): error C2065: one_bits: необъявленный идентификатор
+C:\itcha\Cours\asm\lab4\lab4\lab4.cpp(19,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "shr"
+C:\itcha\Cours\asm\lab4\lab4\lab4.cpp(19,13): error C2065: shr: необъявленный идентификатор
+C:\itcha\Cours\asm\lab4\lab4\lab4.cpp(19,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\itcha\Cours\asm\lab4\lab4\lab4.cpp(19,17): error C2065: eax: необъявленный идентификатор
+C:\itcha\Cours\asm\lab4\lab4\lab4.cpp(20,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "jmp"
+C:\itcha\Cours\asm\lab4\lab4\lab4.cpp(20,13): error C2065: jmp: необъявленный идентификатор
+C:\itcha\Cours\asm\lab4\lab4\lab4.cpp(20,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "start_loop"
+C:\itcha\Cours\asm\lab4\lab4\lab4.cpp(20,17): error C2065: start_loop: необъявленный идентификатор
+C:\itcha\Cours\asm\lab4\lab4\lab4.cpp(22,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "one_bits"
+C:\itcha\Cours\asm\lab4\lab4\lab4.cpp(23,13): error C2065: inc: необъявленный идентификатор
+C:\itcha\Cours\asm\lab4\lab4\lab4.cpp(23,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ecx"
+C:\itcha\Cours\asm\lab4\lab4\lab4.cpp(23,17): error C2065: ecx: необъявленный идентификатор
+C:\itcha\Cours\asm\lab4\lab4\lab4.cpp(24,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "shr"
+C:\itcha\Cours\asm\lab4\lab4\lab4.cpp(24,13): error C2065: shr: необъявленный идентификатор
+C:\itcha\Cours\asm\lab4\lab4\lab4.cpp(24,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\itcha\Cours\asm\lab4\lab4\lab4.cpp(24,17): error C2065: eax: необъявленный идентификатор
+C:\itcha\Cours\asm\lab4\lab4\lab4.cpp(25,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "jmp"
+C:\itcha\Cours\asm\lab4\lab4\lab4.cpp(25,13): error C2065: jmp: необъявленный идентификатор
+C:\itcha\Cours\asm\lab4\lab4\lab4.cpp(25,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "start_loop"
+C:\itcha\Cours\asm\lab4\lab4\lab4.cpp(25,17): error C2065: start_loop: необъявленный идентификатор
+C:\itcha\Cours\asm\lab4\lab4\lab4.cpp(27,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\itcha\Cours\asm\lab4\lab4\lab4.cpp(27,9): error C2065: mov: необъявленный идентификатор
+C:\itcha\Cours\asm\lab4\lab4\lab4.cpp(27,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "compt0"
+C:\itcha\Cours\asm\lab4\lab4\lab4.cpp(28,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\itcha\Cours\asm\lab4\lab4\lab4.cpp(28,9): error C2065: mov: необъявленный идентификатор
+C:\itcha\Cours\asm\lab4\lab4\lab4.cpp(28,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "compt1"
+C:\itcha\Cours\asm\lab4\lab4\lab4.cpp(28,21): error C2065: ecx: необъявленный идентификатор
+C:\itcha\Cours\asm\lab4\lab4\lab4.cpp(29,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "sub"
+C:\itcha\Cours\asm\lab4\lab4\lab4.cpp(29,9): error C2065: sub: необъявленный идентификатор
+C:\itcha\Cours\asm\lab4\lab4\lab4.cpp(29,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "compt0"
+C:\itcha\Cours\asm\lab4\lab4\lab4.cpp(29,21): error C2065: ecx: необъявленный идентификатор
+C:\itcha\Cours\asm\lab4\lab4\lab4.cpp(31,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "out_loop"
+C:\itcha\Cours\asm\lab4\lab4\lab4.cpp(32,13): error C2065: popad: необъявленный идентификатор
+C:\itcha\Cours\asm\lab4\lab4\lab4.cpp(33,5): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\itcha\Cours\asm\lab4\lab4\lab4.cpp(36,5): error C2143: синтаксическая ошибка: отсутствие ";" перед "return"
