@@ -1,0 +1,22 @@
+# --- Sorties de compilation Visual Studio ---
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.tlog
+*.log
+
+# --- Cache et état de l'IDE ---
+.vs/
+*.ipch
+*.db
+*.VC.db
+*.suo
+*.vsidx
+*.user
+*.vcxproj.user

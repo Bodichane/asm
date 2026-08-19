@@ -1,6 +1,6 @@
 ﻿#include <iostream>
 
-int countBitsShiftMethod() {
+void countBitsShiftMethod() {
     int count0;
     int count1;
     __asm {
@@ -33,7 +33,7 @@ int countBitsShiftMethod() {
               << count0 << " and " << count1 << std::endl;
 }
 
-int countBitsBSFMethod() {
+void countBitsBSFMethod() {
     int count0;
     int count1;
     __asm {
@@ -61,7 +61,7 @@ int countBitsBSFMethod() {
               << count0 << " and " << count1 << std::endl;
 }
 
-int countPairedBits() {
+void countPairedBits() {
     int count00;
     int count11;
     __asm {
